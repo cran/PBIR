@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("stats", approx, qnorm, var)
+importFrom("survival", survfit)
+importFrom("cmprsk", cuminc)
+
